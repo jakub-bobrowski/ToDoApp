@@ -4,7 +4,7 @@ Created in React with Bootsrap
 ### Instructions
 
 Clone repository:
-$ git clone https://github.com/fintechfreak/ToDoApp.git
+$ git clone https://github.com/jakub-bobrowski/ToDoApp.git
 
 Install dependencies:
 $ npm install
